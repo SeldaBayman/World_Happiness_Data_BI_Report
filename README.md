@@ -5,6 +5,7 @@ World Happiness 2015_2019 Data Searching, Analyzing and Reporting Project
 
 This repository contains my detailed **Power BI dashboard** exploring global happiness trends across **2015, 2016, 2018, and 2019** using the World Happiness Report datasets.
 
+
 <img width="722" height="499" alt="2015_1" src="https://github.com/user-attachments/assets/7eecd95a-aa55-455c-a3a4-0ac386954fc4" />
 
 
@@ -30,10 +31,8 @@ In this project, I aimed to uncover:
 ✨ Countries with the lowest perceived corruption include **Canada**, while top-ranked countries for freedom include **Sweden, Norway, Switzerland**.  
 ✨ **Japan & Hong Kong** showed upward momentum in Happiness Score and social support metrics in 2018–2019, signaling notable socio-economic improvements in East Asia.
 
+
 <img width="721" height="498" alt="2018_1" src="https://github.com/user-attachments/assets/6f842d48-1d9d-40c3-8737-61f203c4d652" />
-
-
-<img width="725" height="499" alt="2019_1" src="https://github.com/user-attachments/assets/6fc110fa-f725-4103-8c3f-df5243e77a25" />
 
 
 
@@ -101,7 +100,6 @@ For example:
 ## ✨ **About Me**
 
 **I am a data analyst** passionate about turning raw data into meaningful insights and compelling data stories.  
-You can find more of my projects on my [GitHub profile](#) or connect with me on [LinkedIn](#).
 
 ---
 
